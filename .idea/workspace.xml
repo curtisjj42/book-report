@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91de166a-1dc7-49b2-8dc2-838146059783" name="Changes" comment="initial repo creation">
+      <change afterPath="$PROJECT_DIR$/.idea/book-report.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/1_Eragon_by_Paolini_Christopher.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/527320845-The-Wheel-of-Time-Books-1-10.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A_Game_of_Thrones_A_Song_of_Ice_and_Fire_1.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Brandon Sanderson - [Stormlight Archive 01] - The Way of Kings.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Fourth Wing (The Empyrean Book 01).epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Robin_Hobb_-_The_Farseer_Trilogy_1_-_Assassin_39_s_Apprentice.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Rothfuss_Patrick_-_The_King_Killer_Chronicle_1_-_The_Name_of_the_Wind.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/The_Books_of_Earthsea.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/j-r-r-tolkien-lord-of-the-rings-01-the-fellowship-of-the-ring-retail-pdf.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/lion-witch-wardrobe.epub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2pcu3xBPhFI4O4Smv98cvRuNoZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/curti/PycharmProjects/book-report/Data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\curti\PycharmProjects\book-report\Data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91de166a-1dc7-49b2-8dc2-838146059783" name="Changes" comment="" />
+      <created>1733077489428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733077489428</updated>
+      <workItem from="1733077490503" duration="545000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial repo creation">
+      <option name="closed" value="true" />
+      <created>1733077862932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733077862932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial repo creation">
+      <option name="closed" value="true" />
+      <created>1733078020780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733078020780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial repo creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial repo creation" />
+  </component>
+</project>
