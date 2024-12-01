@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91de166a-1dc7-49b2-8dc2-838146059783" name="Changes" comment="preprocessing">
-      <change afterPath="$PROJECT_DIR$/preprocessing.ipynb" afterDir="false" />
+    <list default="true" id="91de166a-1dc7-49b2-8dc2-838146059783" name="Changes" comment="preliminary report analysis and visualization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/processed/Eragon_processed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ignored/Eragon_processed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/processed/The_Fellowship_of_the_Ring.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,17 @@
         <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -51,6 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733077489428</updated>
       <workItem from="1733077490503" duration="545000" />
-      <workItem from="1733078505921" duration="9560000" />
+      <workItem from="1733078505921" duration="10401000" />
     </task>
     <task id="LOCAL-00001" summary="initial repo creation">
       <option name="closed" value="true" />
@@ -122,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733083882729</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="preliminary report analysis and visualization">
+      <option name="closed" value="true" />
+      <created>1733088351734</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733088351734</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +161,8 @@
     <MESSAGE value="initial repo creation" />
     <MESSAGE value="data upload" />
     <MESSAGE value="preprocessing" />
-    <option name="LAST_COMMIT_MESSAGE" value="preprocessing" />
+    <MESSAGE value="preliminary report analysis and visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="preliminary report analysis and visualization" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/book_report$preprocess_epubs.coverage" NAME="preprocess_epubs Coverage Results" MODIFIED="1733082195308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
