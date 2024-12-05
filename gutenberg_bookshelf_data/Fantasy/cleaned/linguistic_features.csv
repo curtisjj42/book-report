@@ -1,0 +1,6 @@
+file_name,vocab_richness,avg_sentence_length,num_sentences,num_words,most_common_word
+Dorothy and the Wizard in Oz L. Frank Baum.txt,0.09476413212951884,20.28613460831188,2719,55158,the
+Men of Iron Howard Pyle.txt,0.08555622826074052,25.288802161513058,3331,84237,","
+"News from Nowhere; Or, An Epoch of Rest William Morris.txt",0.08183442898799134,33.78566384180791,2832,95681,","
+The Sword of Welleran and Other Stories Lord Dunsany.txt,0.11501997208720342,32.72362204724409,1270,41558,the
+The Wonderful Wizard of Oz L. Frank Baum.txt,0.07948996738163487,29.005160550458715,1744,50585,the

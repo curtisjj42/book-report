@@ -1,0 +1,6 @@
+file_name,vocab_richness,avg_sentence_length,num_sentences,num_words,most_common_word
+Greenmantle John Buchan.txt,0.08845841121887023,19.554007539747584,6101,119299,.
+The Moonstone Wilkie Collins.txt,0.052644446598913305,23.701968228594264,10009,237233,","
+The Thirty-Nine Steps John Buchan.txt,0.125143423892962,20.776161616161616,2475,51421,","
+The Woman in White Wilkie Collins.txt,0.04948560875946611,25.331296910455578,11458,290246,","
+The Works of Edgar Allan Poe — Volume 3 Edgar Allan Poe.txt,0.09408922312587198,31.727125506072873,3705,117548,","

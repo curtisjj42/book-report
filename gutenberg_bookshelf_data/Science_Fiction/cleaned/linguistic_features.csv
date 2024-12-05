@@ -1,0 +1,6 @@
+file_name,vocab_richness,avg_sentence_length,num_sentences,num_words,most_common_word
+The Big Trip Up Yonder Kurt Vonnegut.txt,0.25021828614194835,21.493297587131366,373,8017,","
+"The Country of the Blind, and Other Stories H. G. Wells.txt",0.07430202980866474,19.136154823575406,10231,195782,","
+The Eyes Have It Philip K. Dick.txt,0.2685916078105526,21.881818181818183,220,4814,the
+The Marching Morons C. M. Kornbluth.txt,0.22190586868099943,17.651282051282053,975,17210,.
+The War of the Worlds H. G. Wells.txt,0.1116875986548624,22.15110975980541,3289,72855,the
