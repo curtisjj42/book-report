@@ -1,6 +1,21 @@
 file_name,vocab_richness,avg_sentence_length,num_sentences,num_words,most_common_word
 Dorothy and the Wizard in Oz L. Frank Baum.txt,0.09476413212951884,20.28613460831188,2719,55158,the
+Four Arthurian Romances active 12th century de Troyes Chrétien.txt,0.05026708247136197,23.093816848324334,9817,226709,","
+Irish Fairy Tales James Stephens.txt,0.0875380455212388,22.662269854355593,3639,82467,","
+Le Morte d'Arthur_ Volume 1 Sir Thomas Malory.txt,0.03582444253425696,29.91996974281392,6610,197770,","
+Le Morte d'Arthur_ Volume 2 Sir Thomas Malory.txt,0.03081719288936057,28.884915059394558,7829,226140,","
 Men of Iron Howard Pyle.txt,0.08555622826074052,25.288802161513058,3331,84237,","
 "News from Nowhere; Or, An Epoch of Rest William Morris.txt",0.08183442898799134,33.78566384180791,2832,95681,","
+The Book of Wonder Lord Dunsany.txt,0.15907763153372967,34.07377049180328,854,29099,the
+The Gods of Pegana Lord Dunsany.txt,0.1329998597541022,34.2256,625,21391,the
+The House on the Borderland William Hope Hodgson.txt,0.09275357890394634,21.272018199545013,3077,65453,","
+The Legends of King Arthur and His Knights Sir Thomas Malory and Sir James Knowles.txt,0.05120952093484541,31.145581520279343,3723,115955,","
+The Lost Princess of Oz L. Frank Baum.txt,0.08840543881334982,29.771835132482828,2038,60675,","
+The Marvelous Land of Oz L. Frank Baum.txt,0.10436309017535605,29.757135164243405,1857,55259,the
+The Merry Adventures of Robin Hood Howard Pyle.txt,0.054925887219041174,26.57422256991981,5113,135874,","
+The Night Land William Hope Hodgson.txt,0.03216849489174575,43.87235282688945,5147,225811,","
+The Story of Sigurd the Volsung and the Fall of the Niblungs William Morris.txt,0.05379798198393161,51.702097902097904,2860,147868,the
+The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda.txt,0.09300338907094642,37.32723470987977,1913,71406,","
 The Sword of Welleran and Other Stories Lord Dunsany.txt,0.11501997208720342,32.72362204724409,1270,41558,the
+The Well at the World's End_ A Tale William Morris.txt,0.03571133680125506,36.78106018774158,7244,266442,","
 The Wonderful Wizard of Oz L. Frank Baum.txt,0.07948996738163487,29.005160550458715,1744,50585,the

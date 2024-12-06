@@ -1,6 +1,14 @@
 file_name,vocab_richness,avg_sentence_length,num_sentences,num_words,most_common_word
+Dracula Bram Stoker.txt,0.058411275021467174,25.934524603280437,7499,194483,","
 Greenmantle John Buchan.txt,0.08845841121887023,19.554007539747584,6101,119299,.
+The Beetle_ A Mystery Richard Marsh.txt,0.07106686774492577,27.341403442405902,5287,144554,","
 The Moonstone Wilkie Collins.txt,0.052644446598913305,23.701968228594264,10009,237233,","
+The Mystery of Edwin Drood Charles Dickens.txt,0.09574232313034056,30.08074074074074,4050,121827,","
+The Secret Agent_ A Simple Tale Joseph Conrad.txt,0.09714270159424367,19.764885222381636,5576,110209,","
 The Thirty-Nine Steps John Buchan.txt,0.125143423892962,20.776161616161616,2475,51421,","
 The Woman in White Wilkie Collins.txt,0.04948560875946611,25.331296910455578,11458,290246,","
+The Works of Edgar Allan Poe — Volume 1 Edgar Allan Poe.txt,0.10654505454212118,29.895861879967114,3649,109090,","
+The Works of Edgar Allan Poe — Volume 2 Edgar Allan Poe.txt,0.11305216309509208,29.147599591419816,3916,114142,","
 The Works of Edgar Allan Poe — Volume 3 Edgar Allan Poe.txt,0.09408922312587198,31.727125506072873,3705,117548,","
+The Works of Edgar Allan Poe — Volume 4 Edgar Allan Poe.txt,0.12446755493704689,26.944768178363315,3947,106349,","
+The Works of Edgar Allan Poe — Volume 5 Edgar Allan Poe.txt,0.14442532881957934,27.910470879801736,3228,90095,","
